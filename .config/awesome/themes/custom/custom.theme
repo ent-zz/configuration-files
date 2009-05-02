@@ -1,0 +1,36 @@
+---------------------------
+-- Default awesome theme --
+---------------------------
+
+font	      = Terminus 8
+
+bg_normal     = #334455
+bg_focus      = #446655
+bg_urgent     = #aa5555
+fg_normal     = #aa5555
+fg_focus      = #334455
+fg_urgent     = #334455
+
+fg_warn	      = #b09f6f
+fg_alarm      = #ff0000
+fg_green      = #668877
+
+border_width  = 1
+border_normal = #1E1E1E
+border_focus  = #aa5555
+border_marked = #91231c
+
+fg_widget        = #AECF96
+fg_center_widget = #88A175
+fg_end_widget    = #FF5656
+fg_off_widget    = #494B4F
+fg_netup_widget  = #7F9F7F
+fg_netdn_widget  = #CC9393
+bg_widget        = #3F3F3F
+border_widget    = #3F3F3F
+
+taglist_squares = true
+taglist_squares_sel = /home/ent/.config/awesome/themes/custom/icons/squarefw.png
+taglist_squares_unsel = /home/ent/.config/awesome/themes/custom/icons/squarew.png
+
+awesome_icon = /usr/share/awesome/icons/awesome16.png
